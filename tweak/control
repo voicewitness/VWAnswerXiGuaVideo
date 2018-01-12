@@ -1,0 +1,9 @@
+Package: com.voicewitness.xiguaTweak
+Name: XiGuaTweak
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: XiGua Video MobileSubstrate tweak!
+Maintainer: voicewitness
+Author: voicewitness
+Section: Tweaks
